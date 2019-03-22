@@ -28,3 +28,6 @@ $ npm start
 $ npm install 
 $ npm start
 ```
+-And now you are good to go :)
+
+plase note that this project is still work in progress 
