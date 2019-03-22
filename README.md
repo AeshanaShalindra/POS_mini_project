@@ -28,9 +28,9 @@ $ npm start
 $ npm install 
 $ npm start
 ```
--And now you are good to go :)
+- And now you are good to go :)
 
-plase note that this project is still work in progress 
+### plase note that this project is still work in progress 
 
--In order to operate, please first create an Admin acount where all other user(pos operator) accounts can be handled 
--Then create an user account and add multiple items in to orders 
+- In order to operate, please first create an Admin acount where all other user(pos operator) accounts can be handled 
+- Then create an user account and add multiple items in to orders 
