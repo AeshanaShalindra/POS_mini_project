@@ -23,7 +23,7 @@ A very simple module that allows you to
 $ npm install 
 $ npm start
 ```
-- Navigate in to the front_end folder and run 
+- Navigate in to the pos_front_end folder and run 
 ```sh
 $ npm install 
 $ npm start
@@ -31,3 +31,6 @@ $ npm start
 -And now you are good to go :)
 
 plase note that this project is still work in progress 
+
+-In order to operate, please first create an Admin acount where all other user(pos operator) accounts can be handled 
+-Then create an user account and add multiple items in to orders 
